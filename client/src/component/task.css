@@ -1,0 +1,25 @@
+
+.task{
+    background-color: rgb(174, 103, 255);
+    padding: 20px;
+    text-align: left;
+    color: white;
+    border-radius: 20px;
+}
+.taskdes{
+    color: rgb(226, 226, 226);
+}
+.taskbtn{
+    float: right;
+    border: none;
+    cursor: pointer;
+    margin: -20px 30px;
+    background: none;
+    width: 20px;
+    
+}
+
+.taskbtn img{
+    width: 30px;
+
+}
